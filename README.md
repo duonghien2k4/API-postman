@@ -1,8 +1,8 @@
 # API-postman
 Thực hành Kiểm thử API với Postman
-# 🧪 Báo cáo thử nghiệm API với Postman
+# Báo cáo thử nghiệm API với Postman
 
-## 🎯 Mục tiêu
+## Mục tiêu
 
 Thực hiện các thao tác cơ bản với API REST bao gồm:
 - `GET`: lấy dữ liệu
@@ -79,7 +79,8 @@ Chỉnh sửa
 Mã phản hồi: 201 Created
 
 ID mới được gán: id = 101
-
+**Ảnh minh họa:**
+![POST](./post.png)
 
 
 
@@ -103,6 +104,8 @@ Chỉnh sửa
 **Kết quả trả về:**
 
 Mã phản hồi: 201 Created
+**Ảnh minh họa:**
+![PUT](./put.png)
 
 Nội dung trả về là nội dung mới được cập nhật
 
