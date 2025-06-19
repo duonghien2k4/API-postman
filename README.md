@@ -58,29 +58,25 @@ Dùng công cụ **Postman** để gửi yêu cầu đến endpoint:
   }
 ]
 2. POST – Gửi một bài viết mới
-**Mô tả:** Gửi yêu cầu POST để tạo mới một bài viết.
 
-- **URL:**https://jsonplaceholder.typicode.com/posts
+**Mô tả:** Gửi yêu cầu `POST` để tạo mới một bài viết.
 
-**Phương thức:**hương thức: POST
+- **URL:** `https://jsonplaceholder.typicode.com/posts`
+- **Phương thức:** `POST`
 
-Body: (dạng JSON)
+**Body:** (dạng JSON)
 
-json
-Sao chép
-Chỉnh sửa
+```json
 {
   "title": "Hello",
   "body": "This is a test post.",
   "userId": 1
 }
-**Kết quả trả về:**
+Kết quả trả về:
 
 Mã phản hồi: 201 Created
 
 ID mới được gán: id = 101
-**Ảnh minh họa:**
-![POST](./post.png)
 
 
 
