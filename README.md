@@ -80,8 +80,6 @@ Mã phản hồi: 201 Created
 
 ID mới được gán: id = 101
 
-**Ảnh minh họa:**
-![POST](./post.png)
 
 
 
@@ -107,9 +105,6 @@ Kết quả trả về:
 Mã phản hồi: 201 Created
 
 Nội dung trả về là nội dung mới được cập nhật
-**Ảnh minh họa:**
-![PUT](./put.png)
-
 
 📌 Tổng kết
 Phương thức	Mục đích	Trạng thái
