@@ -80,8 +80,9 @@ Mã phản hồi: 201 Created
 
 ID mới được gán: id = 101
 
-Ảnh minh họa:
-![GET](./Screenshot%202025-06-19%20171916.png)
+**Ảnh minh họa:**
+![POST](./post.png)
+
 
 
 3. PUT – Cập nhật bài viết
@@ -106,9 +107,8 @@ Kết quả trả về:
 Mã phản hồi: 201 Created
 
 Nội dung trả về là nội dung mới được cập nhật
-
-Ảnh minh họa:
-![GET](./Screenshot%202025-06-19%20172530.png)
+**Ảnh minh họa:**
+![PUT](./put.png)
 
 
 📌 Tổng kết
